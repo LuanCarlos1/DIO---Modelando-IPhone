@@ -7,6 +7,7 @@ public class Main {
             meuIphone.tocar();
             meuIphone.pausar();
             meuIphone.avancar();
+            meuIphone.avancar();
 
             // Testando Aparelho Telefônico
             meuIphone.fazerChamada("123456789");
